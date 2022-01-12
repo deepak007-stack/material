@@ -41,7 +41,7 @@ public class MainActivity extends AppCompatActivity {
 
         String[] demo1 = {"one","two","three"};
         
-        String demo4 = {"one","two","three","four"};
+        String[] demo4 = {"one","two","three","four"};
 
         RecyclerView recycle = (RecyclerView) findViewById(R.id.recycle);
         BottomNavigationView bottomNavigation = (BottomNavigationView) findViewById(R.id.bottom_navigation);
