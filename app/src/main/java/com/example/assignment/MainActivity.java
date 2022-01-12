@@ -32,8 +32,12 @@ public class MainActivity extends AppCompatActivity {
         FirebaseDatabase database = FirebaseDatabase.getInstance();
         DatabaseReference myRef = database.getReference("message");
 
+        // This is the demo #################################################
+
 
         String[] name = {"one","two","three","four","five","six","seven"};
+
+        String[] demo = {"one","two","three"};
 
         RecyclerView recycle = (RecyclerView) findViewById(R.id.recycle);
         BottomNavigationView bottomNavigation = (BottomNavigationView) findViewById(R.id.bottom_navigation);
