@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp"
+    android:id="@+id/main_box">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/round_shape"
+        android:orientation="vertical"
+        android:paddingBottom="20dp">
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="255dp"
+            android:layout_height="200dp"
+            android:backgroundTint="#EDB9A9"
+            app:cardCornerRadius="28dp">
+
+            <ImageView
+                android:layout_width="234sp"
+                android:layout_height="105sp"
+                android:layout_gravity="center"
+                android:contentDescription="@string/todo"
+                android:src="@drawable/ic_launcher_background" />
+
+        </androidx.cardview.widget.CardView>
+
+        <TextView
+            android:id="@+id/soical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16sp"
+            android:layout_marginTop="18dp"
+            android:text="@string/social_media_detox_nchallenge"
+            android:textColor="@color/white"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:text="@string/_7_days"
+                android:textColor="#808191"
+                android:textSize="15sp" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="end"
+                android:layout_marginStart="30dp"
+                android:contentDescription="@string/todo"
+                android:src="@drawable/user" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>

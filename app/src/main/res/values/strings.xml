@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="social_media_detox_nchallenge">Social Media Detox \nChallenge</string>
+    <string name="_7_days">7 days</string>
+    <string name="todo">TODO</string>
+    <string name="challenges">Challenges</string>
+    <string name="join_a_challenge">join a challenge</string>
+    <string name="view_all">View all</string>
+    <string name="your_challenges">Your Challenges</string>
+    <string name="sugar_free_nchallange">Sugar Free \nChallange</string>
+    <string name="_20_done">20% done</string>
+    <string name="yoga_nchallange">Yoga \nChallange</string>
+    <string name="_50_done">50% done</string>
+    <string name="completed_challanges">Completed Challanges</string>
+    <string name="_100_done">100% done</string>
+    <string name="_3_day_water_nchallenge">3 Day Water \nChallenge</string>
+    <string name="diet_detox_nchallenge">Diet Detox \nChallenge</string>
+    <string name="social_media_ndetox_challenge">Social Media \nDetox Challenge</string>
+    <string name="day_1">Day 1</string>
+    <string name="day_2">Day 2</string>
+    <string name="day_3">Day 3</string>
+    <string name="drink">Drink lime warm water earlier, try out meditation or yoga.\nDrink lime warm water earlier, try out meditation or yoga.Drink lime warm water earlier, try out meditation or yoga.</string>
+    <string name="drink2">Cut down on the things that stand of your best self, Cut down on the things that stand of your best sefl,Cut down on the things that stand of your best sefl,Cut down on the things that stand of your best sefl,Cut down on the things that stand of your best self, Cut down on the things that stand of your best self.</string>
+    <string name="str1">Focus on relieving things</string>
+    <string name="str2">Cut your screen timing</string>
+    <string name="str3">Delete unnecessary \napps</string>
+    <string name="back_button">back button</string>
+    <string name="user">how many user see this post</string>
+    <string name="scroll">this is the for scrolling</string>
+    <string name="inner_img">this is the inner image of card layout</string>
+    <string name="share">this is a button for share</string>
+    <string name="product">this is the main product image</string>
+</resources>

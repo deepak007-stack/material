@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "693173650824",
+    "project_id": "hta-app-2021",
+    "storage_bucket": "hta-app-2021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693173650824:android:34f0bf49f0c3e41597263d",
+        "android_client_info": {
+          "package_name": "com.example.assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693173650824-e1mpve4beo0pq0akjmgau575bgrmmd37.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.assignment",
+            "certificate_hash": "69c4a615e680b1f072ebd0ba64c8ac9c000fe4ee"
+          }
+        },
+        {
+          "client_id": "693173650824-v0pq3e7q13j4iifopvhnq849l9lh8l5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoxwNfUP2bPyuvobcIg2dCk2AMrf2v9Q4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693173650824-v0pq3e7q13j4iifopvhnq849l9lh8l5h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "693173650824-9enh383dl6sks4a33vvo7dk1o8ep2nhn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.omegaorion.hta-ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693173650824:android:71fe7a2775a4411897263d",
+        "android_client_info": {
+          "package_name": "me.mayankchoudhary.beetroot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693173650824-qqho3c6hs5hash4j0j1jvsukcn9uecdp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "me.mayankchoudhary.beetroot",
+            "certificate_hash": "4e3db3baf7fe46e5f72a21860133845b58b07c98"
+          }
+        },
+        {
+          "client_id": "693173650824-v0pq3e7q13j4iifopvhnq849l9lh8l5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoxwNfUP2bPyuvobcIg2dCk2AMrf2v9Q4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693173650824-v0pq3e7q13j4iifopvhnq849l9lh8l5h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "693173650824-9enh383dl6sks4a33vvo7dk1o8ep2nhn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.omegaorion.hta-ios"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

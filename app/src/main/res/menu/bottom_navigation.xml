@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Item1"
+        android:icon="@drawable/home"/>
+    <item android:title="Item2"
+        android:icon="@drawable/network"/>
+    <item android:title="Item3"
+        android:icon="@drawable/add"/>
+    <item android:title="Item4"
+        android:icon="@drawable/right"/>
+    <item android:title="Item5"
+        android:icon="@drawable/setting"/>
+</menu>
